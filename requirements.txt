@@ -1,0 +1,5 @@
+Flask==1.1.2
+flask_jwt_simple
+flask_restful
+sqlite3
+PyJWT==1.7.1
